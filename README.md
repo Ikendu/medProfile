@@ -6,4 +6,14 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# medProfile" 
+  "# medProfile"
+
+This is a React-Vite Project
+
+You can run it by opening the 'dist' folder in VS Code and using the 'go live' extension of VS Code.
+
+OR
+
+You can run the whole app with 'yarn dev' and then open the 'http://localhost:5173/' link
+
+thanks for choosing me, I will make you proud of this decision.
